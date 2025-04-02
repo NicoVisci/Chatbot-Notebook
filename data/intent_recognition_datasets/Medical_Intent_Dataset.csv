@@ -1,0 +1,71 @@
+Sentence,Intent,truth_value
+"I prefer Advil over Tylenol for my arthritis pain because it works faster for me.",Preference,2
+"I always choose Claritin over Zyrtec for my allergies as it doesn't make me drowsy.",Preference,2
+"I find that Vicks VapoRub works better for my congestion than mentholated patches.",Preference,2
+"I trust Neutrogena's eczema cream more than other brands for my skin condition.",Preference,2
+"I prefer using Biotène mouthwash for my dry mouth instead of generic alternatives.",Preference,2
+"I always buy Omron blood pressure monitors because they're the most reliable.",Preference,2
+"I like OneTouch test strips better than Accu-Chek for checking my blood sugar.",Preference,2
+"I find that Voltaren gel relieves my joint pain more effectively than ThermaCare patches.",Preference,2
+"I prefer Flonase nasal spray over Nasacort for managing my seasonal allergies.",Preference,2
+"I always choose Tums Extra Strength over regular antacids for my heartburn.",Preference,2
+"I find that Bengay cream works better for my muscle pain than generic menthol rubs.",Preference,2
+"I prefer Sudafed 12-hour tablets over the 4-hour ones for my sinus congestion.",Preference,2
+"I trust Bausch + Lomb eye drops more than Visine for my dry eyes.",Preference,2
+"I always pick Mederma over other brands for treating my surgery scars.",Preference,2
+"I like using Breathe Right nasal strips instead of medicated sprays for nighttime congestion.",Preference,2
+"I prefer Ensure protein drinks over Boost when I need nutritional supplements.",Preference,2
+"I find that Delsym 12-hour cough suppressant works better than Robitussin for my persistent cough.",Preference,2
+"I always choose Band-Aid Hydro Seal bandages over regular ones for blister protection.",Preference,2
+"I trust Abreva more than generic brands for treating my cold sores quickly.",Preference,2
+"I prefer Nature Made vitamin D supplements over other brands for my deficiency.",Preference,2
+"Can you recommend a good antihistamine for severe seasonal allergies?",Recommendation,1
+"What would you suggest for treating persistent eczema on sensitive skin?",Recommendation,1
+"I need a recommendation for an effective over-the-counter pain reliever for migraine headaches.",Recommendation,1
+"Could you suggest a medication for acid reflux that won't interact with my blood pressure medicine?",Recommendation,1
+"What's the best cream for treating psoriasis flare-ups on the elbows?",Recommendation,1
+"Can you recommend a cough suppressant that's safe for someone with high blood pressure?",Recommendation,1
+"What would you suggest for alleviating joint pain associated with rheumatoid arthritis?",Recommendation,1
+"I need advice on which iron supplement would cause the least stomach upset.",Recommendation,1
+"Could you recommend an effective product for treating athlete's foot that's resistant to previous treatments?",Recommendation,1
+"What's a good medication for preventing motion sickness during long car rides?",Recommendation,1
+"Can you suggest an effective antibiotic ointment for a minor infected cut?",Recommendation,1
+"What would you recommend for reducing inflammation from tendonitis in my wrist?",Recommendation,1
+"I need advice on the best eye drops for severe dry eyes caused by Sjögren's syndrome.",Recommendation,1
+"Could you suggest a product for treating persistent dandruff that doesn't respond to regular shampoos?",Recommendation,1
+"What's a good sleep aid that won't leave me feeling groggy in the morning?",Recommendation,1
+"Can you recommend an effective muscle relaxant for back spasms?",Recommendation,1
+"What would you suggest for managing the symptoms of irritable bowel syndrome?",Recommendation,1
+"I need a recommendation for treating ringworm that's spread despite using over-the-counter creams.",Recommendation,1
+"Could you suggest a product for reducing the appearance of surgical scars?",Recommendation,1
+"What's a good medication for preventing recurring urinary tract infections?",Recommendation,1
+Which medication is best for my high blood pressure?,Recommendation,1
+Can you recommend something for my migraine?,Recommendation,1
+I'm looking for a medicine to help with joint pain.,Recommendation,1
+What's good for seasonal allergies that won't make me drowsy?,Recommendation,1
+I need something stronger than ibuprofen for my back pain.,Recommendation,1
+What would you suggest for a child's fever?,Recommendation,1
+I'm looking for an alternative to my current diabetes medication.,Recommendation,1
+What's the best over-the-counter option for acid reflux?,Recommendation,1
+Can you recommend a cream for my eczema?,Recommendation,1
+I need something for insomnia that's non-habit forming.,Recommendation,1
+"How often should I check my blood sugar if I'm newly diagnosed with type 2 diabetes?",Uncovered,0
+"What are the typical side effects of starting statin medications?",Uncovered,0
+"Is it safe to exercise while taking blood pressure medication?",Uncovered,0
+"How long does it usually take for antibiotics to clear up a sinus infection?",Uncovered,0
+"What's the difference between a viral and bacterial throat infection?",Uncovered,0
+"Should I be concerned about this unusual rash on my arm?",Uncovered,0
+"How can I tell if my headaches are migraines or tension headaches?",Uncovered,0
+"What's the proper way to use a peak flow meter for asthma monitoring?",Uncovered,0
+"Are there any foods I should avoid while taking warfarin?",Uncovered,0
+"What causes low vitamin D levels despite getting regular sun exposure?",Uncovered,0
+"How much water should I drink daily when taking diuretic medication?",Uncovered,0
+"What's the relationship between caffeine consumption and heart palpitations?",Uncovered,0
+"Is it normal to experience dizziness when starting a new blood pressure medication?",Uncovered,0
+"How long should I wait between taking different medications?",Uncovered,0
+"What are the warning signs that my asthma is getting worse?",Uncovered,0
+"How does metformin help control blood sugar in diabetes?",Uncovered,0
+"What causes tinnitus and is there any way to reduce the symptoms?",Uncovered,0
+"Should I continue taking my allergy medication year-round or just during allergy season?",Uncovered,0
+"What's the connection between stress and digestive problems?",Uncovered,0
+"Is intermittent fasting safe for someone taking cholesterol medication?",Uncovered,0

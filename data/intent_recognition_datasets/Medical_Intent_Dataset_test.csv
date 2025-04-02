@@ -1,0 +1,52 @@
+Sentence,Intent,truth_value
+I always take Emergen-C when I need an immune system boost.,Preference,2
+I rely on TheraFlu whenever I feel flu symptoms coming on.,Preference,2
+"For heartburn, I prefer Gaviscon over other antacids.",Preference,2
+I choose Neosporin for minor cuts because it speeds up healing.,Preference,2
+I prefer Salonpas patches for back pain relief.,Preference,2
+"For sinus pressure, I always go with Mucinex.",Preference,2
+I take Oscillococcinum to prevent flu symptoms from worsening.,Preference,2
+I like using Carmex for chapped lips because it works quickly.,Preference,2
+I find OxyClean pads the best for treating acne breakouts.,Preference,2
+"For bloating, I prefer Simethicone because it relieves discomfort fast.",Preference,2
+I prefer using NyQuil when I have a cold because it helps me sleep.,Preference,2
+"For muscle recovery, I always choose Tiger Balm over other creams.",Preference,2
+I find Imodium to be the best option for stopping diarrhea quickly.,Preference,2
+"Whenever I have a fever, I opt for Motrin because it reduces it fast.",Preference,2
+I always take Airborne to boost my immune system when I feel sick.,Preference,2
+Allegra is my preferred allergy medication since it works all day.,Preference,2
+"For tension headaches, I rely on BC Powder because it acts fast.",Preference,2
+I prefer using Cepacol lozenges to soothe my sore throat.,Preference,2
+I trust Biofreeze for relieving muscle soreness after workouts.,Preference,2
+"When I have nausea, I always take Emetrol because it’s gentle.",Preference,2
+Can you suggest a good supplement for boosting my vitamin D levels?,Recommendation,1
+What’s the best over-the-counter remedy for motion sickness?,Recommendation,1
+I need a recommendation for a non-drowsy cough suppressant.,Recommendation,1
+Could you advise me on the best probiotic for digestive health?,Recommendation,1
+Which pain reliever is safest for people with kidney problems?,Recommendation,1
+What’s a good over-the-counter eye drop for dry eyes?,Recommendation,1
+Can you recommend a multivitamin that’s best for senior citizens?,Recommendation,1
+I need a reliable medicine to help control my high cholesterol.,Recommendation,1
+What’s an effective ointment for treating insect bites?,Recommendation,1
+Could you suggest a good homeopathic remedy for anxiety?,Recommendation,1
+Can you recommend a natural remedy for acid reflux?,Recommendation,1
+What’s the best pain relief option for someone allergic to aspirin?,Recommendation,1
+Could you suggest a good herbal supplement for better sleep?,Recommendation,1
+I need a reliable medicine for controlling my blood sugar levels.,Recommendation,1
+What’s an effective nasal spray for severe congestion?,Recommendation,1
+Can you recommend a good laxative that works gently?,Recommendation,1
+What’s a safe medication for reducing fever in toddlers?,Recommendation,1
+Could you suggest a cream for treating athlete’s foot?,Recommendation,1
+What’s the best treatment for preventing cold sores?,Recommendation,1
+I need a good antiseptic solution for cleaning wounds.,Recommendation,1
+I enjoy hiking in the mountains during weekends.,Uncovered,0
+What’s the best way to cook pasta al dente?,Uncovered,0
+Can you recommend a good sci-fi TV series?,Uncovered,0
+My dog loves playing fetch at the park.,Uncovered,0
+What’s the latest trend in fashion this year?,Uncovered,0
+I need advice on how to start a vegetable garden.,Uncovered,0
+Which car brand is known for its reliability?,Uncovered,0
+How do I improve my public speaking skills?,Uncovered,0
+I’m planning to visit Japan next year.,Uncovered,0
+What’s the best way to organize my closet?,Uncovered,0
+

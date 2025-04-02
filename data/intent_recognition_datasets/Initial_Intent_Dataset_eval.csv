@@ -1,0 +1,38 @@
+Sentence,Intent,truth_value
+Which over-the-counter medication works best for blood sugar control?,Medical,1
+I always choose Claritin over Zyrtec for my allergies as it doesn't make me drowsy.,Medical,1
+I love playing video games on weekends.,Unrelated,0
+Is there a better alternative to antibiotics for viral infections?,Medical,1
+Can you tell me a joke?,Unrelated,0
+What are some fun activities to do on a rainy day?,Unrelated,0
+Do you recommend any particular brand of pain reliever for chest discomfort?,Medical,1
+How's the weather in New York today?,Unrelated,0
+What are some good places to visit in Italy?,Unrelated,0
+How do I bake a chocolate cake?,Unrelated,0
+What is the capital of France?,Unrelated,0
+Which fever reducers are safe and effective for home use?,Medical,1
+Who won the soccer match yesterday?,Unrelated,0
+Are there any natural supplements you'd recommend for depression?,Medical,1
+How do I change my Wi-Fi password?,Unrelated,0
+Is it safe to take ibuprofen and aspirin together or should I choose one?,Medical,1
+What are some popular tourist attractions in Japan?,Unrelated,0
+What's the best over-the-counter medication for stroke prevention?,Medical,1
+Can you suggest digestive aids that work quickly?,Medical,1
+How can I improve my productivity at work?,Unrelated,0
+What are the latest trends in fashion?,Unrelated,0
+Are there medications I should avoid mixing with alcohol?,Medical,1
+Which inhaler brands work best for exercise-induced asthma?,Medical,1
+What's the most effective cold medicine for flu symptoms?,Medical,1
+Who is the CEO of Tesla?,Unrelated,0
+What is the best way to learn a new language?,Unrelated,0
+Do you know any effective natural remedies for high cholesterol?,Medical,1
+What's better for dehydration - sports drinks or electrolyte solutions?,Medical,1
+Which diabetic-friendly food supplements would you recommend?,Medical,1
+Can you recommend a good movie?,Unrelated,0
+I need to update my contact details my user ID is 47583920.,Update,2
+Hello I'm user 18283853 and need assistance.,Update,2
+I recently purchased Tachipirina for my cold.,Update,2
+Can you update my identifier in the system? It is 58942245.,Update,2
+I bought some Pampers last week can you add that to my history?,Update,2
+Please update my account with my new identifier: 73694215.,Update,2
+I'd like to confirm my recent purchase of Mellin baby food.,Update,2

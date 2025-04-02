@@ -1,0 +1,52 @@
+Sentence,Intent,truth_value
+I prefer tablets over liquid medicine for my cough.,Preference,2
+I like the once-daily dosing of my cholesterol medication.,Preference,2
+Extended-release formulations work better for my ADHD.,Preference,2
+I prefer medications with fewer side effects for my anxiety.,Preference,2
+I don't like the taste of the cough syrup you prescribed last time.,Preference,2
+I prefer medications that don't interact with my blood pressure pills.,Preference,2
+I like the generic version of my antidepressant better than the brand name.,Preference,2
+What would you suggest for persistent dry eyes?,Recommendation,1
+I prefer pills that can be crushed since I have difficulty swallowing.,Preference,2
+What's a good medicine for sinus congestion during pregnancy?,Recommendation,1
+I like medications that I only need to take once a day.,Preference,2
+Can you recommend something for my child's ADHD?,Recommendation,1
+I need a new antihistamine that doesn't make me sleepy.,Recommendation,1
+I prefer the patch form of hormone replacement therapy.,Preference,2
+What's effective for treating fungal nail infections?,Recommendation,1
+I like the combination inhaler better than using two separate ones for my asthma.,Preference,2
+What would you recommend for chronic constipation?,Recommendation,1
+I need something for nerve pain that doesn't make me dizzy.,Recommendation,1
+I prefer medications with once-weekly dosing for my osteoporosis.,Preference,2
+What's a good option for managing type 1 diabetes?,Recommendation,1
+I like the chewable tablets for my heartburn medication.,Preference,2
+Can you recommend something for seasonal depression?,Recommendation,1
+I prefer time-release pain medications for my arthritis.,Preference,2
+What's effective for treating adult acne?,Recommendation,1
+I need a new prescription for my thyroid condition.,Uncovered,0
+I prefer the brand name for my epilepsy medication.,Preference,2
+What would you suggest for menopausal symptoms?,Recommendation,1
+I like medications that don't have to be taken with food.,Preference,2
+Can you recommend a treatment for psoriasis?,Recommendation,1
+What's the best antibiotic for a sinus infection?,Recommendation,1
+I prefer medications with minimal drug interactions for my heart condition.
+I need something for frequent migraines that's preventive.,Recommendation,1
+What would you recommend for chronic IBS symptoms?,Recommendation,1
+I prefer injectable medications for my multiple sclerosis.,Preference,2
+Can you suggest something for chronic fatigue?,Recommendation,1
+I like medications that don't cause weight gain for my mood disorder.
+What's a good treatment for shingles pain?,Recommendation,1
+I prefer non-steroidal options for my skin condition.,Preference,2
+I need something for managing my Parkinson's symptoms.,Recommendation,1
+What would you recommend for chronic kidney disease?,Recommendation,1
+I prefer medications that are covered by my insurance plan.,Preference,2
+"I’ve been experiencing chest pain when I breathe deeply.",Uncovered,0
+"Lately,I feel dizzy whenever I stand up quickly.",Uncovered,0
+"My throat has been sore for over a week,is that normal?",Uncovered,0
+"I have a persistent cough that won’t go away.",Uncovered,0
+"I keep waking up in the middle of the night sweating.",Uncovered,0
+"I need to schedule an appointment with my dermatologist.",Uncovered,0
+"I should refill my prescription before it runs out.",Uncovered,0
+"I will start exercising daily to improve my heart health.",Uncovered,0
+"I must check my blood sugar levels more frequently.",Uncovered,0
+"I plan to consult a doctor about my recent weight loss.",Uncovered,0

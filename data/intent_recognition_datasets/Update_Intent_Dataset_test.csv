@@ -1,0 +1,21 @@
+Sentence,Intent,truth_value
+Hello I'm user 18283853.,Self-identifying,0
+I need to update my contact details my name is 12456634.,Self-identifying,0
+Can you update my identifier in the system? It is 58942245,Self-identifying,0
+I have a new identifier for my account: 58435959.,Self-identifying,0
+I need to change my user name to 12355943.,Self-identifying,0
+My user ID is 68294731 please update my profile.,Self-identifying,0
+I've been assigned a new customer number: 18273645.,Self-identifying,0
+Please register me with the identification number 29384756.,Self-identifying,0
+My new patient ID is 38475612 please update your records.,Self-identifying,0
+Could you change my account number to 48392756?,Self-identifying,0
+I just bought some hydrocortisone cream from your pharmacy.,Purchase,1
+Please add the multivitamins to my current shopping basket.,Purchase,1
+I need to confirm my purchase of Allegra went through.,Purchase,1
+Did my recent order of Preparation H get processed correctly?,Purchase,1
+Please update my shopping list with the fiber supplements.,Purchase,1
+I ordered some DayQuil this morning is it in my history?,Purchase,1
+Can you add the antacid tablets to my current cart?,Purchase,1
+I need to confirm that my purchase of Metamucil was recorded.,Purchase,1
+My shopping cart should include the nasal spray I just selected.,Purchase,1
+I recently bought some Afrin from your store.,Purchase,1

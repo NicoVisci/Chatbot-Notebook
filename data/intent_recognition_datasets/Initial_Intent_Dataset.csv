@@ -1,0 +1,73 @@
+Sentence,Intent,truth_value
+What painkillers do you suggest for joint pain?,Medical,1
+Can you name a good cough syrup?,Medical,1
+What is a good medication for high blood pressure?,Medical,1
+What is a good medication for high blood pressure?,Medical,1
+Do you recommend any flu medications?,Medical,1
+What medicine can help with peanut allergies?,Medical,1
+Which fever reducers are safe for children?,Medical,1
+Are there over-the-counter drugs for diabetes?,Medical,1
+Can you suggest a medicine for headaches?,Medical,1
+What painkillers do you suggest for joint pain?,Medical,1
+What medicine can help with peanut allergies?,Medical,1
+Do you recommend any flu medications?,Medical,1
+Can you suggest a medicine for headaches?,Medical,1
+Is there a pill for insomnia that works fast?,Medical,1
+What painkillers do you suggest for joint pain?,Medical,1
+Can you name a good cough syrup?,Medical,1
+Are there over-the-counter drugs for diabetes?,Medical,1
+What is a good medication for high blood pressure?,Medical,1
+What is a good medication for high blood pressure?,Medical,1
+Is there a pill for insomnia that works fast?,Medical,1
+Can you name a good cough syrup?,Medical,1
+What is a good medication for high blood pressure?,Medical,1
+Is there a pill for insomnia that works fast?,Medical,1
+Can you suggest a medicine for headaches?,Medical,1
+Are there any natural remedies for anxiety?,Medical,1
+Are there any natural remedies for anxiety?,Medical,1
+I prefer Advil over Tylenol for my arthritis pain because it works faster for me.,Medical,1
+I always choose Claritin over Zyrtec for my allergies as it doesn't make me drowsy.,Medical,1
+For headaches I find Excedrin more effective than Ibuprofen.,Medical,1
+When I have a cold I rely on NyQuil instead of DayQuil because it helps me sleep better.,Medical,1
+I take Pepto-Bismol instead of Tums for stomach issues since it soothes my nausea faster.,Medical,1
+Allegra works better for my seasonal allergies compared to Benadryl which makes me sleepy.,Medical,1
+For muscle pain I prefer Voltaren Gel over oral painkillers as it's more targeted.,Medical,1
+I use Robitussin over Delsym because it clears my cough quicker.,Medical,1
+For heartburn relief I always go with Prilosec instead of Zantac.,Medical,1
+Tylenol PM is my go-to for sleepless nights compared to Melatonin which doesn't work for me.,Medical,1
+I rely on Tachiflu whenever I feel sick,Medical,1
+The new restaurant downtown has amazing pasta dishes.,Unrelated,0
+I'm thinking about adopting a dog from the local shelter.,Unrelated,0
+Can you recommend a good sci-fi movie to watch this weekend?,Unrelated,0
+My favorite hiking trail was closed due to maintenance.,Unrelated,0
+I just finished reading an interesting book about deep space exploration.,Unrelated,0
+The traffic was terrible on my commute this morning.,Unrelated,0
+What's the best way to remove a coffee stain from a white shirt?,Unrelated,0
+I'm planning to renovate my kitchen next spring.,Unrelated,0
+Do you have any recommendations for affordable vacation destinations?,Unrelated,0
+My daughter's school is putting on a musical next month.,Unrelated,0
+I'm trying to learn how to play the guitar in my spare time.,Unrelated,0
+What's your opinion on the latest smartphone release?,Unrelated,0
+The sunset at the beach last night was absolutely stunning.,Unrelated,0
+I'm looking for a new recipe to try for dinner tonight.,Unrelated,0
+How do I set up a home wireless network?,Unrelated,0
+My car needs new tires before winter arrives.,Unrelated,0
+I've been watching this fascinating documentary series about ancient civilizations.,Unrelated,0
+What's the best way to care for houseplants during winter?,Unrelated,0
+I'm having trouble with my email account it won't sync properly.,Unrelated,0
+Do you know any good techniques for improving landscape photography?,Unrelated,0
+The local farmers market has the freshest vegetables in town.,Unrelated,0
+I'm considering switching careers and going into graphic design.,Unrelated,0
+What's the best way to train a puppy not to chew on furniture?,Unrelated,0
+My favorite team won the championship game last night.,Unrelated,0
+Do you have any tips for organizing a small home office space?,Unrelated,0
+Hello I'm user 18283853.,Update,2
+I need to update my contact details my name is 12456634.,Update,2
+I purchased the item Tachiflu.,Update,2
+Can you update my identifier in the system? It is 58942245,Update,2
+I recently purchased Tachipirina and Sciroppo for my flu.,Update,2
+I have a new identifier for my account: 58435959.,Update,2
+Please update my shop cart by adding Mellin OMG Mela.,Update,2
+I made a recent transaction I bought some Pampers DB,Update,2
+I need to change my user name to 12355943.,Update,2
+I confirm that Pannolini appear in my latest purchase history,Update,2

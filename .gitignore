@@ -1,1 +1,17 @@
 .idea/
+.ipynb_checkpoints/
+checkpoints/
+
+__pycache__
+
+models/
+runs/
+tmp_trainer/
+
+data/preferences/*
+data/user_data/*
+
+LLM_ApiKey.yml
+data/PRODUCT_*.csv
+data/PRODUCT_short.csv
+data/PRODUCT_clean.csv

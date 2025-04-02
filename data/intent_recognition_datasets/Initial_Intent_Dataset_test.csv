@@ -1,0 +1,14 @@
+Sentence,Intent,truth_value
+Can you suggest a good medicine for headaches?,Medical,1
+What is the meaning of life?,Unrelated,0
+What painkillers do you recommend for joint pain?,Medical,1
+I prefer Tylenol over Advil for my insomnia.,Medical,1
+What is the best programming language to learn in 2025?,Unrelated,0
+Where can I buy the new iPhone?,Unrelated,0
+For muscle pain I find Voltaren Gel more effective than oral medication.,Medical,1
+Can you name a good cough syrup for children?,Medical,1
+Can you recommend a good science fiction book?,Unrelated,0
+What is the latest update on the stock market?,Unrelated,0
+My shopping cart needs to include the Sciroppo I just selected.,Update,2
+Can you change my username to 59372014?,Update,2
+I need to verify that Pannolini appears in my purchase history.,Update,2

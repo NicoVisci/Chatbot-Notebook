@@ -1,0 +1,31 @@
+Sentence,Intent,truth_value
+Hello I'm user 18283853.,Self-identifying,0
+I need to update my contact details my name is 12456634.,Self-identifying,0
+Can you update my identifier in the system? It is 58942245,Self-identifying,0
+I have a new identifier for my account: 58435959.,Self-identifying,0
+I need to change my user name to 12355943.,Self-identifying,0
+My user ID is 68294731 please update my profile.,Self-identifying,0
+I've been assigned a new customer number: 18273645.,Self-identifying,0
+Please register me with the identification number 29384756.,Self-identifying,0
+My new patient ID is 38475612 please update your records.,Self-identifying,0
+Could you change my account number to 48392756?,Self-identifying,0
+I'm calling about my customer ID 56473829.,Self-identifying,0
+My username has changed to User48372956.,Self-identifying,0
+I need to verify my identity my code is 48392756.,Self-identifying,0
+Please note that my reference number is now 58372910.,Self-identifying,0
+I've been given the client number 47382910.,Self-identifying,0
+I'd like to confirm that my Centrum vitamins order went through.,Purchase,1
+Can you check if my purchase of Vicks VapoRub is in the system?,Purchase,1
+Please add the calcium supplements to my current cart.,Purchase,1
+I bought some Neosporin yesterday is it showing in my history?,Purchase,1
+I need to update my cart with the prenatal vitamins I selected.,Purchase,1
+My order should include the glucosamine I just added.,Purchase,1
+I recently purchased Flonase for my allergies.,Purchase,1
+Please add the Pedialyte to my current order.,Purchase,1
+I just selected the eye drops to add to my cart.,Purchase,1
+Could you update my cart with the dental floss I chose?,Purchase,1
+I just bought some Aspirin from your store.,Purchase,1
+Please add two boxes of Band-Aids to my current order.,Purchase,1
+I need to verify that my Vitamin D supplements were processed.,Purchase,1
+I recently purchased Mucinex for my cough.,Purchase,1
+My shopping list needs to include the Alka-Seltzer I selected.,Purchase,1
